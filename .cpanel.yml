@@ -1,6 +1,6 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/ahmadbaa/repositories/new
+    - export DEPLOYPATH=/home/rahabi/public_html/marrakech
     - /bin/cp * $DEPLOYPATH
    
